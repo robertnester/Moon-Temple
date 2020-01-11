@@ -146,8 +146,6 @@ class Tower:
         elif cz > self.TABVerts[7][2] and cz < self.TABVerts[6][2] and cx > self.TABVerts[3][0] and cx < self.TABVerts[3][0] + .5:
             ##print("BOTTOM")
             glTranslatef(ms,0,0)
-            
-        ## TODO: IMPROVE AND UNCOMMENT THE COLLISION HANDLING BELOW (DIAGONAL TOWER SIDES)
         
 ##        elif cx > self.TABVerts[0][0] and cx < self.TABVerts[0][0] + (0.5/self.r) and cz > self.TABVerts[0][2] + (0.5/self.r) and cz < self.TABVerts[7][2]:
 ##            print("TOPLEFT")
