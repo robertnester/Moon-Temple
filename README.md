@@ -3,7 +3,7 @@
 
 run game-main.py to play
 
-<img src="screenshot-1.png" width="400" height="300">
+//<img src="screenshot-1.png" width="400" height="300">
 
 ![Gif 1](gif-1.gif)
 ![Gif 2](gif-2.gif)
