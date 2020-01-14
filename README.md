@@ -3,9 +3,7 @@
 
 Moon model courtesy of [The Models Resource](https://www.models-resource.com/nintendo_64/thelegendofzeldamajorasmask/model/28863/).
 
-<img src="screenshot-1.png" width="800">
-
 ## Gameplay:
-![Gif 1](gif-1.gif)
-![Gif 2](gif-2.gif)
-![Gif 3](gif-3.gif)
+![Gif 1](gameplay/gif-1.gif)
+![Gif 2](gameplay/gif-2.gif)
+![Gif 3](gameplay/gif-3.gif)
